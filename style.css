@@ -1,0 +1,58 @@
+.top-banner{
+    text-align: center;
+    color: rgb(171, 81, 81);
+    background-image: url(images/relief_distribution_gallery_8.jpg);
+    background-size:cover;
+    height:1000px;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+
+}
+.top-banner h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+.donate-day{
+text-align: center;
+margin-bottom: 50px;
+}
+.donate-amount{
+    font-size: 30px;
+    display: flex;
+    gap: 30px;
+    margin-bottom: 50px;
+    justify-content: center;
+
+}
+.color-gray{
+    background-color:rgb(233, 238, 245);
+    padding: 20px 20px;
+}
+.color-red{
+    background-color: rgb(221, 154, 154);
+    border: 2px solid red;
+    padding: 20px 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+}
+footer h1{
+    font-family:cursive;
+    color: crimson;
+    font-size: 30px;
+    font-weight:900;
+}
